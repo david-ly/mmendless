@@ -1,0 +1,15 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2023 outsize=341 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=746 outsize=797 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4913 outsize=5373 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2275 outsize=2505 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9225 outsize=8489 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
